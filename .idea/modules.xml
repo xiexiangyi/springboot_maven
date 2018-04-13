@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../qfang_parent/qfang_dao/qfang_dao.iml" filepath="$PROJECT_DIR$/../qfang_parent/qfang_dao/qfang_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qfang_parent/qfang_model/qfang_model.iml" filepath="$PROJECT_DIR$/../qfang_parent/qfang_model/qfang_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qfang_parent.iml" filepath="$PROJECT_DIR$/qfang_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qfang_parent/qfang_service/qfang_service.iml" filepath="$PROJECT_DIR$/../qfang_parent/qfang_service/qfang_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qfang_parent/qfang_web/qfang_web.iml" filepath="$PROJECT_DIR$/../qfang_parent/qfang_web/qfang_web.iml" />
+    </modules>
+  </component>
+</project>
