@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class QfangDaoApplication {
 	public static void main(String[] args) {
 		System.out.println(111);
+		System.out.println(222);
 	}
+
 
 	public static void main(String[] args) {
 		SpringApplication.run(QfangDaoApplication.class, args);
