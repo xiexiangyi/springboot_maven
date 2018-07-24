@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/../qfang_parent/qfang_dao/pom.xml" />
         <option value="$PROJECT_DIR$/../qfang_parent/qfang_web/pom.xml" />
         <option value="$PROJECT_DIR$/../qfang_parent/qfang_model/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
